@@ -1,0 +1,1000 @@
+/* screen - index */
+
+.index {
+  background-color: var(--log-cabin);
+  height: 826px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.index .base-circle-5SJodb {
+  background-color: transparent;
+  height: 835px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 835px;
+}
+.index .black-gradient-2gmHbg {
+  background-color: transparent;
+  height: 622px;
+  left: 107px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 621px;
+}
+.index .circle-1-2gmHbg {
+  background-color: transparent;
+  height: 835px;
+  left: -1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 836px;
+}
+.index .circle-3YPoB0 {
+  background-color: transparent;
+  height: 835px;
+  left: 20px;
+  position: relative;
+  top: -5px;
+  width: 835px;
+}
+.index .circle-IO3Fu5 {
+  background-color: transparent;
+  height: 825px;
+  left: 566px;
+  position: absolute;
+  top: 1px;
+  width: 874px;
+}
+.index .circle-eKpULx {
+  background-color: transparent;
+  height: 835px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 835px;
+}
+.index .circles-mini-Sbks1q {
+  background-color: transparent;
+  height: 693px;
+  left: 67px;
+  position: absolute;
+  top: 25px;
+  width: 693px;
+}
+.index .crystals-5SJodb {
+  background-color: transparent;
+  height: 615px;
+  left: 116px;
+  position: absolute;
+  top: 105px;
+  width: 591px;
+}
+.index .ellipse-1-2gmHbg {
+  background-color: transparent;
+  border: 1px solid var(--log-cabin);
+  border-radius: 308.0523986816406px;
+  height: 616px;
+  left: 110px;
+  position: absolute;
+  top: 109px;
+  width: 616px;
+}
+.index .ellipse-2-GyOCqk {
+  background-color: #b3b59f;
+  border-radius: 8.474620819091797px;
+  height: 17px;
+  left: 573px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 101px;
+  transform: rotate(0.74deg);
+  width: 17px;
+}
+.index .ellipse-2-KsTz5L {
+  background-color: #c28d59;
+  border-radius: 8.47461986541748px;
+  height: 17px;
+  left: 337px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-45deg);
+  width: 17px;
+}
+.index .ellipse-2-kH6oDV {
+  background-color: #fd693b;
+  border-radius: 8.474620819091797px;
+  height: 17px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 100px;
+  transform: rotate(-89.17deg);
+  width: 17px;
+}
+.index .ellipse-2-n0nIxM {
+  background-color: #b042b5;
+  border-radius: 8.47461986541748px;
+  height: 17px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 338px;
+  transform: rotate(-135.00deg);
+  width: 17px;
+}
+.index .ellipse-2-s93sOM {
+  background-color: #ffc0f5;
+  border-radius: 8.474620819091797px;
+  height: 17px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 574px;
+  transform: rotate(-179.26deg);
+  width: 17px;
+}
+.index .ellipse-2-siOA7g {
+  background-color: #827c96;
+  border-radius: 8.47461986541748px;
+  height: 17px;
+  left: 672px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 338px;
+  transform: rotate(45.00deg);
+  width: 17px;
+}
+.index .ellipse-2-u9e5J0 {
+  background-color: #43fe93;
+  border-radius: 8.474620819091797px;
+  height: 17px;
+  left: 573px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 574px;
+  transform: rotate(90.83deg);
+  width: 17px;
+}
+.index .ellipse-2-vtuVtv {
+  background-color: #61a2fe;
+  border-radius: 8.47461986541748px;
+  height: 17px;
+  left: 337px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 672px;
+  transform: rotate(135.00deg);
+  width: 17px;
+}
+.index .group-1-IO3Fu5 {
+  background-color: transparent;
+  height: 104px;
+  left: 30px;
+  position: absolute;
+  top: 128px;
+  width: 430px;
+}
+.index .group-2-foDZgf {
+  background-color: transparent;
+  height: 19px;
+  left: 109px;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+.index .group-3-foDZgf {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+.index .group-4-foDZgf {
+  background-color: transparent;
+  height: 19px;
+  left: 218px;
+  position: absolute;
+  top: 0px;
+  width: 93px;
+}
+.index .group-5-foDZgf {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 33px;
+  width: 93px;
+}
+.index .group-6-foDZgf {
+  background-color: transparent;
+  height: 19px;
+  left: 218px;
+  position: absolute;
+  top: 33px;
+  width: 93px;
+}
+.index .group-7-IO3Fu5 {
+  background-color: transparent;
+  height: 52px;
+  left: 30px;
+  position: absolute;
+  top: 707px;
+  width: 309px;
+}
+.index .group-7-foDZgf {
+  background-color: transparent;
+  height: 19px;
+  left: 109px;
+  position: absolute;
+  top: 33px;
+  width: 93px;
+}
+.index .logo-IO3Fu5 {
+  background-color: transparent;
+  height: 62px;
+  left: 43px;
+  position: absolute;
+  top: 38px;
+  width: 327px;
+}
+.index .mini-circles-eKpULx {
+  background-color: transparent;
+  height: 742px;
+  left: 5px;
+  position: absolute;
+  top: 46px;
+  width: 803px;
+}
+.index .rectangle-1-I1uZ19 {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 104px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 428px;
+}
+.index .rectangle-2-QDE99x {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 91px;
+}
+.index .rectangle-2-QblbR6 {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 91px;
+}
+.index .rectangle-2-lwH2vC {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 91px;
+}
+.index .rectangle-2-oMqwN1 {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 91px;
+}
+.index .rectangle-3-QpQL0y {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 91px;
+}
+.index .rectangle-3-fHIk1j {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 91px;
+}
+.index .text-circles-Sbks1q {
+  background-color: transparent;
+  height: 742px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 819px;
+}
+.index .textlabel-0g176i {
+  background-color: transparent;
+  height: 18px;
+  left: 640px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  width: 102px;
+}
+.index .textlabel-8EGnyn {
+  background-color: transparent;
+  height: 18px;
+  left: 385px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 57px;
+}
+.index .textlabel-MOx97u {
+  background-color: transparent;
+  height: 18px;
+  left: 741px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 392px;
+  width: 64px;
+}
+.index .textlabel-QDE99x {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 49px;
+}
+.index .textlabel-QblbR6 {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 43px;
+}
+.index .textlabel-QpQL0y {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 43px;
+}
+.index .textlabel-VxmlWD {
+  background-color: transparent;
+  height: 18px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 98px;
+  width: 67px;
+}
+.index .textlabel-Y011lf {
+  background-color: transparent;
+  height: 18px;
+  left: 367px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 724px;
+  width: 94px;
+}
+.index .textlabel-fHIk1j {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 43px;
+}
+.index .textlabel-gUNp3I {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 392px;
+  width: 90px;
+}
+.index .textlabel-lwH2vC {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 43px;
+}
+.index .textlabel-mQlNF3 {
+  background-color: transparent;
+  height: 18px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 627px;
+  width: 77px;
+}
+.index .textlabel-oMqwN1 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 49px;
+}
+.index .textlabel-tn3mOj {
+  background-color: transparent;
+  height: 18px;
+  left: 640px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 627px;
+  width: 83px;
+}
+.index .vector-1-ZqUCSB {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 308px;
+  width: 616px;
+}
+.index .vector-1-zahje7 {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 308px;
+  width: 616px;
+}
+.index .vector-2-ZqUCSB {
+  background-color: transparent;
+  height: 616px;
+  left: 307px;
+  position: absolute;
+  top: -0px;
+  width: 2px;
+}
+.index .vector-2-zahje7 {
+  background-color: transparent;
+  height: 616px;
+  left: 307px;
+  position: absolute;
+  top: -0px;
+  width: 2px;
+}
+.index .vector-3-ZqUCSB {
+  background-color: transparent;
+  height: 437px;
+  left: 90px;
+  position: absolute;
+  top: 89px;
+  width: 437px;
+}
+.index .vector-3-zahje7 {
+  background-color: transparent;
+  height: 437px;
+  left: 90px;
+  position: absolute;
+  top: 89px;
+  width: 437px;
+}
+.index .vector-4-ZqUCSB {
+  background-color: transparent;
+  height: 437px;
+  left: 89px;
+  position: absolute;
+  top: 89px;
+  width: 437px;
+}
+.index .vector-4-zahje7 {
+  background-color: transparent;
+  height: 437px;
+  left: 89px;
+  position: absolute;
+  top: 89px;
+  width: 437px;
+}
+.index .vectors-KuZtdx {
+  background-color: transparent;
+  height: 615px;
+  left: 110px;
+  position: absolute;
+  top: 109px;
+  width: 615px;
+}
+.index .vectors-eKpULx {
+  background-color: transparent;
+  height: 615px;
+  left: 110px;
+  position: absolute;
+  top: 109px;
+  width: 615px;
+}
+.index .x-I1uZ19 {
+  background-color: transparent;
+  height: 15px;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  width: 246px;
+}
+.index .x1-rose-quartz-ddjCY4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 72px;
+  left: 18px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 402px;
+  transition: all 0.4s ease;
+  width: 72px;
+}
+.index .x1-rose-quartz-ddjCY4:hover {
+
+transform: scale(1.25);
+}
+.index .x10-amazonite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 461px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 474px;
+  width: 72px;
+}
+.index .x11-tiger-eye-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 265px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 73px;
+}
+.index .x12-black-tourmaline-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 461px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 72px;
+}
+.index .x13-carnelian-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 37px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 72px;
+}
+.index .x14-hematite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 389px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 499px;
+  width: 72px;
+}
+.index .x15-malachite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 75px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 72px;
+}
+.index .x16-dalmatine-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 133px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 364px;
+  width: 72px;
+}
+.index .x17-angelite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 73px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 433px;
+  width: 72px;
+}
+.index .x18-lepidolite-ddjCY4 {
+  background-color: transparent;
+  height: 74px;
+  left: 367px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 72px;
+}
+.index .x19-lapis-lazuli-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 276px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 542px;
+  width: 72px;
+}
+.index .x2-labrodarite-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 321px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 469px;
+  width: 72px;
+}
+.index .x20-serpentine-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 249px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 72px;
+}
+.index .x21-black-onyx-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 493px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 145px;
+  width: 72px;
+}
+.index .x22-howlite-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 518px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 72px;
+}
+.index .x23-blue-goldstone-ddjCY4 {
+  background-color: transparent;
+  height: 74px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 283px;
+  width: 72px;
+}
+.index .x24-rhodonite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 220px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 72px;
+}
+.index .x25-fluorite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 265px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 219px;
+  width: 73px;
+}
+.index .x26-pyrite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 295px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 72px;
+}
+.index .x27-sunstone-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 331px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 72px;
+}
+.index .x28-blue-aventurine-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 229px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 436px;
+  width: 72px;
+}
+.index .x29-selenite-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 177px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 286px;
+  width: 72px;
+}
+.index .x3-clear-quartz-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 254px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 389px;
+  width: 72px;
+}
+.index .x30-prehnite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 329px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 72px;
+}
+.index .x31-moss-agate-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 109px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 171px;
+  width: 72px;
+}
+.index .x32-red-goldstone-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 211px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 72px;
+}
+.index .x33-garnet-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 189px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 72px;
+}
+.index .x34-moonstone-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 272px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 330px;
+  width: 72px;
+}
+.index .x35-leo-jasper-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 364px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 72px;
+}
+.index .x36-apatite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 312px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 367px;
+  width: 72px;
+}
+.index .x37-blue-calcite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 401px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 288px;
+  width: 72px;
+}
+.index .x38-mahogany-obsidian-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 371px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 170px;
+  width: 72px;
+}
+.index .x39-unakite-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 229px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 72px;
+}
+.index .x4-sodalite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 403px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 397px;
+  width: 72px;
+}
+.index .x40-fluorite-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 84px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 338px;
+  width: 72px;
+}
+.index .x5-aventurine-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 397px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 72px;
+}
+.index .x6-red-jasper-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 451px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 323px;
+  width: 72px;
+}
+.index .x7-snowflake-obsidian-ddjCY4 {
+  background-color: transparent;
+  height: 72px;
+  left: 302px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 72px;
+}
+.index .x8-citrine-ddjCY4 {
+  background-color: transparent;
+  height: 73px;
+  left: 200px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 72px;
+}
+.index .x9-amethyst-ddjCY4 {
+  background-color: transparent;
+  height: 74px;
+  left: 424px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 171px;
+  width: 72px;
+}

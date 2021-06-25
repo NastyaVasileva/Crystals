@@ -1,0 +1,317 @@
+/* screen - rose-quartz */
+
+#overlay-rose-quartz {
+  background-color: transparent;
+  position: absolute;
+}
+#overlay-rose-quartz .container-center-horizontal {
+  justify-content: normal;
+}
+#overlay-rose-quartz .rose-quartz {
+  left: 29.767126083374023px;
+  top: 246.76712799072266px;
+}
+.overlay .rose-quartz {
+  background-color: #00000000;
+}
+.rose-quartz {
+  background-color: transparent;
+  height: 390px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 429px;
+}
+.rose-quartz .ellipse-10-Wu75Tk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.rose-quartz .ellipse-11-Wu75Tk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.rose-quartz .ellipse-12-Wu75Tk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.rose-quartz .ellipse-3-qE7x6R {
+  background-color: #ffc0f5;
+  border-radius: 5px;
+  height: 10px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.rose-quartz .ellipse-4-qE7x6R {
+  background-color: #b042b5;
+  border-radius: 5px;
+  height: 10px;
+  left: 374px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.rose-quartz .ellipse-5-qE7x6R {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 125px;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.rose-quartz .ellipse-6-qE7x6R {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 19px;
+  left: 205px;
+  position: absolute;
+  top: 357px;
+  width: 19px;
+}
+.rose-quartz .ellipse-7-Wu75Tk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.rose-quartz .ellipse-8-Wu75Tk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.rose-quartz .ellipse-9-Wu75Tk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.rose-quartz .group-6-h2tPXp {
+  background-color: transparent;
+  height: 390px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 439px;
+}
+.rose-quartz .group-8-qE7x6R {
+  background-color: transparent;
+  height: 67px;
+  left: 45px;
+  position: absolute;
+  top: 209px;
+  width: 394px;
+}
+.rose-quartz .rectangle-1-qE7x6R {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 390px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 429px;
+}
+.rose-quartz .rectangle-4-qE7x6R {
+  background-color: transparent;
+  height: 8px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 330px;
+  width: 359px;
+}
+.rose-quartz .textlabel-25wDGg {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 163px;
+}
+.rose-quartz .textlabel-9XSl1z {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 163px;
+}
+.rose-quartz .textlabel-Db3JLJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 344px;
+  width: 98px;
+}
+.rose-quartz .textlabel-MXuZ1l {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 344px;
+  width: 98px;
+}
+.rose-quartz .textlabel-PWxypw {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 151px;
+}
+.rose-quartz .textlabel-Wu75Tk {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.rose-quartz .textlabel-XtgoCv {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.rose-quartz .textlabel-hmbQak {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 151px;
+}
+.rose-quartz .textlabel-qE7x6R {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-blacker_sans_text_trial-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: 148px;
+}
+.rose-quartz .x-Db3JLJ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.rose-quartz .x-qE7x6R {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 15px;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 359px;
+  width: 13px;
+}
+.rose-quartz .x1-rose-quartz-qE7x6R {
+  background-color: transparent;
+  height: 212px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 212px;
+}

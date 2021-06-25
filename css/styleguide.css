@@ -1,0 +1,25 @@
+:root {
+  --log-cabin: #222222;
+  --white: #ffffff;
+
+  --font-size-l: 16px;
+  --font-size-m: 13px;
+  --font-size-s: 10px;
+  --font-size-xl: 35px;
+
+  --font-family-blacker_sans_text_trial-medium: "Blacker Sans Text Trial-Medium", Helvetica;
+  --font-family-raleway: "Raleway", Helvetica;
+}
+.raleway-normal-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1px-white {
+  border: 1px solid var(--white);
+}
+.border-0-6px-white {
+  border: 0.6px solid var(--white);
+}
